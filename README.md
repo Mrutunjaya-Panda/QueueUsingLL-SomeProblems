@@ -46,12 +46,14 @@ This helps reinforce how queue data structures work **under the hood**.
    QueueUsingLL.java
 
   These classes demonstrate queue operations in action.
+  ```
 📚 Concepts Covered
 
 ✔ Linked List
 ✔ Queue data structure
 ✔ Custom queue implementation
 ✔ Dynamic memory usage without arrays
+```
 
 📌 License
 This project is open-source and free to use for learning and educational purposes.
